@@ -1,0 +1,1 @@
+I have developed a function to generate a random quantum circuit with the number of qubits, number of depths, and the base of gates. Additionally, I completed the bonus section through the development of the "cx" gate which allowed me to follow the bonus order between the qubits.
